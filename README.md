@@ -1,4 +1,4 @@
-#My Token
+## My Token
 The MyToken project is a simple Solidity-based smart contract designed to create and manage a custom cryptocurrency token. The contract provides essential functionalities such as minting new tokens and burning existing ones. It keeps track of the total supply of tokens and the balances of individual addresses.
 ## Description
 This Solidity code defines a basic token named "Animal" with the symbol "AN". It tracks the total supply and balances using mappings. The "mint" function allows creating new tokens for an address, while the "burn" function lets users destroy their own tokens. This contract provides a starting point for a token, but lacks features like transfers and robust security measures for real-world applications.
